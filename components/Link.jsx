@@ -10,4 +10,4 @@ function Link({ href, children, ...props }) {
             </a>
         </NextLink>
     );
-}
+};
